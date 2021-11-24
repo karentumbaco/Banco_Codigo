@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banco.Cuento_Bancaria">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAgAAAEAgAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cuento_Bancaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banco.Cuenta_Ahorro">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAgAAAAAQAAAAAAAAAgABAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Cuenta_Ahorro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banco.Cuenta_Corriente">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAgAAACAAAAAAQgAgAAAgAAAAIAAAAAgAA=</HashCode>
+      <FileName>Cuenta_Corriente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banco.Poliza">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Poliza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
